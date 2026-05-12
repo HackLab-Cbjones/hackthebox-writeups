@@ -12,6 +12,7 @@ The objective of this lab was to reverse engineer the code and find the vulnerab
 -Command Terminal
 -Ghidra
 -Sublime text
+-Python
 
 ## Process of Completion
 First I downloaded file off of hack the box, then I unzipped the file, then played the mini game and noticed the text file was not working.
