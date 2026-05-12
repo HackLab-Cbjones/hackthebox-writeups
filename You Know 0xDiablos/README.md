@@ -5,13 +5,14 @@ The objective of this lab was to use a buffer overflow attack on the network HTB
 
 ## Skills Demonstrated
 -Linux Commands
--Reverse 
+-Reverse Enginering
 -Coding
 
 ## Tools used
--
--
--
+-Ghidra
+-GNU gdb
+-Python
+-Command Terminal
 
 ## Process of Completion
 
