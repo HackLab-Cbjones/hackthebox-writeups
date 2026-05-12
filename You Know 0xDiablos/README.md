@@ -15,6 +15,7 @@ The objective of this lab was to use a buffer overflow attack on the network HTB
 -Command Terminal
 
 ## Process of Completion
+First you download the file given on HTB and unzip it.
 
 
 ## Explotation
