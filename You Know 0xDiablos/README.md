@@ -25,4 +25,4 @@ I then run the file on vuln to get the pattern offset and then try to run the pa
 Buffer Overflow
 
 ## Proof
-Diablos Lab 1-8 PNG
+Diablos 1-8 PNG
