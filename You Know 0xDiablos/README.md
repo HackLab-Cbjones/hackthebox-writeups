@@ -22,7 +22,7 @@ I then run the file on vuln to get the pattern offset and then try to run the pa
 
 
 ## Explotation
-Buffer Overflow
+-Buffer Overflow
 
 ## Proof
 Diablos 1-8 PNG
