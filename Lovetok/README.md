@@ -11,7 +11,8 @@ The overview of this lab was to go to the webpage given and attack the vulnerabl
 -Command Terminal
 
 ## Process of Completion
-
+First I downloaded the file given and tried a few commands that did nothing so then I copied and pasted it into the web browser and a lovtok page appeared.
+Next I
 
 ## Explotation
 -Web Vulnerability
