@@ -22,7 +22,7 @@ Next I used Ghidra to open the file and read the code.
 After finding out where the flags string was located in the code I created a payload to extract the flag.
 
 ## Explotation
-Array of strings in the code
+-Array of strings in the code
 
 ## Proof
 Racecar 1-5 PNG
